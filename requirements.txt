@@ -1,0 +1,11 @@
+sentence-transformers==2.2.2   #will be using open-source embedding model from hugging face to create vector embedding
+langchain
+flask
+pypdf   # pdf document
+python-dotenv
+pinecone[grpc]
+langchain-pinecone
+langchain_community
+langchain_openai
+langchain_experimental
+-e .
